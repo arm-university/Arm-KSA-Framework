@@ -2,6 +2,8 @@
 
 The Arm KSA Framework is super-set of the competencies (Knowledge, Skills and Abilities) that early career software and hardware engineers bring to the industry.
 
+Download KSA Framework v1.0 <https://github.com/arm-university/Arm-KSA-Framework/blob/main/Arm%20KSA%20Framework%20v1.xlsx>
+
 # Background
 
 The Education team at Arm, along with contributions from 100+ Arm engineers, has been developing a competency framework, which is a comprehensive super-set of the KSAs that early career software or hardware engineers bring to the industry. The framework is structured in four strands:
