@@ -44,7 +44,6 @@ To the extent that any claim in any patent application filed by you would not ha
     c. you may not make any claims about the Arm Education Core's functionality or otherwise other than those published by Arm. The Arm Education Core is not representative of any commercially available Arm processors and you may not make any statements that indicate or imply the contrary.
 
 13.2 <ins>Knowledge, Skills and Abilities Framework (the “KSA Framework”)</ins>: Use of the KSA Framework is subject to the following special conditions:
-    
     a. You may use, copy and modify the KSA Framework for internal use only;
 
     b. If you modify the KSA Framework, the modified version shall include attribution to Arm as the source of the original KSA Framework. Attribution shall be in the following format or a format which provides substantially similar information: “Arm Limited (2024). Knowledge, Skills, and Abilities Framework, version 1.0”;
