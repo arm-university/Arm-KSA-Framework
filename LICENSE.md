@@ -45,10 +45,10 @@ To the extent that any claim in any patent application filed by you would not ha
 
 13.2 <ins>Knowledge, Skills and Abilities Framework (the “KSA Framework”)</ins>: Use of the KSA Framework is subject to the following special conditions:
 
-    a. You may use, copy and modify the KSA Framework for internal use only;
+   a. You may use, copy and modify the KSA Framework for internal use only;
 
-    b. If you modify the KSA Framework, the modified version shall include attribution to Arm as the source of the original KSA Framework. Attribution shall be in the following format or a format which provides substantially similar information: “Arm Limited (2024). Knowledge, Skills, and Abilities Framework, version 1.0”;
+   b. If you modify the KSA Framework, the modified version shall include attribution to Arm as the source of the original KSA Framework. Attribution shall be in the following format or a format which provides substantially similar information: “Arm Limited (2024). Knowledge, Skills, and Abilities Framework, version 1.0”;
 
-    c. You may not distribute or grant any sublicenses in respect of the KSA Framework, or any modified version of the KSA Framework modified by you under the license granted in Clause 13.2(a), except as expressly approved by Arm in writing (contact education@arm.com to request approval) and subject to the terms and conditions set out in such written approval from Arm; and
+   c. You may not distribute or grant any sublicenses in respect of the KSA Framework, or any modified version of the KSA Framework modified by you under the license granted in Clause 13.2(a), except as expressly approved by Arm in writing (contact education@arm.com to request approval) and subject to the terms and conditions set out in such written approval from Arm; and
 
-    d. You shall not make any representations or warranties on behalf of Arm in respect of the KSA Framework, or in respect of modified versions of the KSA Framework created by You under the license granted in Clause 13.2(a). Furthermore, you will not represent or imply that Arm endorses any third-party products, materials or services, including without limitation any modified versions of the KSA Framework created by you under the terms of this Agreement, except as expressly permitted by Arm in writing separately.
+   d. You shall not make any representations or warranties on behalf of Arm in respect of the KSA Framework, or in respect of modified versions of the KSA Framework created by You under the license granted in Clause 13.2(a). Furthermore, you will not represent or imply that Arm endorses any third-party products, materials or services, including without limitation any modified versions of the KSA Framework created by you under the terms of this Agreement, except as expressly permitted by Arm in writing separately.
