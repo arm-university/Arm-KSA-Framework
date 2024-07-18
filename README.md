@@ -4,8 +4,6 @@ The Arm KSA Framework is super-set of the competencies (Knowledge, Skills and Ab
 
 ### [Download KSA Framework here](https://github.com/arm-university/Arm-KSA-Framework/blob/main/Arm%20KSA%20Framework%20v1.xlsx)
 
-[Download KSA Framework v1.0]
-
 # Background
 
 The Education team at Arm, along with contributions from 100+ Arm engineers, has been developing a competency framework, which is a comprehensive super-set of the KSAs that early career software or hardware engineers bring to the industry. The framework is structured in four strands:
@@ -72,8 +70,10 @@ When approaching constructing your own version of the Framework for your organis
 
 # License
 
-Our End-User Licence Agreement (EULA) permits you to adapt the KSA Framework subject to certain conditions. Please refer to the EULA  for details.
-Inclusive Language Commitment
+Our End-User Licence Agreement (EULA) permits you to adapt the KSA Framework subject to certain conditions. Please refer to the [EULA](https://github.com/arm-university/Arm-KSA-Framework/blob/main/LICENSE.md) for details.
+
+# Inclusive Language Commitment
+
 Arm is committed to making the language we use inclusive, meaningful, and respectful. Our goal is to remove and replace non-inclusive language from our vocabulary to reflect our values and represent our global ecosystem.
 Arm is working actively with our partners, standards bodies, and the wider ecosystem to adopt a consistent approach to the use of inclusive language and to eradicate and replace offensive terms. We recognise that this will take time. This material may contain references to non-inclusive language; it will be updated with newer terms as those terms are agreed and ratified with the wider community.
 Contact us at education@arm.com with questions or comments about this resource. You can also report non-inclusive and offensive terminology usage in Arm content at terms@arm.com 
