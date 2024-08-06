@@ -16,30 +16,32 @@ The Education team at Arm, along with contributions from 100+ Arm engineers, has
 
 •	Technical skills
  
-The Framework unpacks into a total of over 750 statements.
+These strands unpack into a total of over 750 statements.
 
 # Design and development process 
 
 Development work on the KSA Framework began with intensive research into the current understanding of the skills and knowledge used by entry-level software and hardware engineers. This included academic and industry research and models, resulting in a draft structure and initial content. 
 
-Following the design of this draft, multiple rounds of consultation with SW and HW engineers led to an iterative adaptation of the structure and content. A community of more than 100 engineers across the business accessed and provided feedback. To ensure it reflected the variety of perspectives at Arm, those consulted included senior engineers, hiring managers, graduates and interns. These included members of employee resource groups focused on issues connected with diversity, equity and inclusion, as well as engineers who had experienced education systems outside Europe and the US. 
+Following the design of this draft, multiple rounds of consultations were carried out with software and hardware engineers in a variety of specialisms. Over 100 Arm engineers provided feedback. The structure and content of the Framework were adapted accordingly. To ensure the Framework reflected a variety of relevant perspectives consultees included senior engineers, hiring managers, graduates and interns. They also included members of Employee Resource Groups focused on issues connected with diversity, equity and inclusion, as well as engineers who had experienced school and higher education in countries outside Europe and North America.
 
-Feedback centred on opinions about how the Framework should be changed to capture the knowledge, skills and abilities that are valuable to entry-level engineers. This included:
--	Technical skills: skills sets, skills and skills descriptors
--	Knowledge: knowledge substrands, knowledge areas and knowledge statements
--	Additional fields: including examples of the tools, platforms, programming languages, methodologies and techniques which are applied by entry level engineers in the context of a specific skill or knowledge area.
+The central questions addressed in consultations was: does the Framework capture the knowledge, skills and abilities that are valuable to entry-level engineers? If not, what’s missing? How can it be changed or augmented to match your expectations and experiences? Throughout each consultation feedback was recorded on elements of the Framework (see below for an explanation of its structure):
+-	Technical skills
+-	Knowledge
+-	Additional information, such as the programming languages currently used in connection with a particular skill
 
-The Framework represents the sum total of this work, and is consequently a super-set of skills for entry-level engineers across software and hardware specialisms. One would not expect a single engineer to be proficient in all the KSAs but instead a job/role profile could be identified using the content of the Framework.
+The Framework represents the sum total of the research, consultation and iterative development work described above. One would not expect a single engineer to be proficient in all the KSAs. Instead, the Framework represents a super-set of skills and knowledge for entry-level engineers across software and hardware specialisms. 
 
 # Structure of framework
 
-The framework is built around four strands, each of which is presented as a nested hierarchy. As such, it can help to visualise the framework as a tree diagram. Each strand expands to either four or five levels. 
+It can help to visualise the framework as a tree diagram. The framework is a nested hierarchy built around four strands. Each strand expands to either four or five levels. Each new level breaks down the previous level into a greater level of detail or ‘granularity’. 
  
 Strand 1 includes four levels: Personal Skills, Sub-strands, Skill sets and Exemplar skills 
 Strand 2 includes four levels: Social & Team skills, Sub-strands, Skill sets and Exemplar skills
 Strand 3 includes four levels: Knowledge, Sub-strands, Knowledge areas and Knowledge statements
 Strand 4 includes five levels: Technical skills, Sub-strand, Skill sets, Skills and Skill descriptors
   
+Another feature of the Framework is Additional Fields. They include examples of the tools, platforms, programming languages, methodologies and techniques which are applied by entry level engineers in the context of a specific skill or knowledge area. Separating this detail enables the KSAs to be presented at a level of abstraction such that they focus on principles rather than capturing their current implementations, which can change both over short timeframes and between specialisms.
+
 The Framework is presented in an Excel workbook. The workbook contains ten worksheets:
 
 1. **Contents**:	Quick links between the sheets in the workbook and references
@@ -53,13 +55,15 @@ The Framework is presented in an Excel workbook. The workbook contains ten works
 8. **Strand 4 SW sub-strand**:	Complete content: skill sets, skill set descriptions, skills, skill descriptors and additional fields for the software engineering technical skills sub-strand in Strand 4
 9. **Strand 4 HW sub-strand**:	Complete content: skill sets, skill set descriptions, skills, skill descriptors and additional fields for the hardware engineering technical skills sub-strand in Strand 4
 
-Additionally strand 4 is designed such that any role profile could be made of a mix of both the software and hardware sub-strands, no role relies solely on content from one of the sub-strands.
+It is important to note that although Strand 4 is separated into hardware and software skills, this does not imply that an engineer working in e.g. a hardware specialism would only apply skills from the hardware sub-strand. No engineering role would rely solely on content from one of the sub-strands.
 
-Alongside the development of the Framework we have developed a levelling rubric to enable role profiles to be designed. This rubric is based on the level of independent application of technical skills a role encompasses. To learn more about these areas of work please contact education@arm.com
+The KSA framework is focused on technical roles, rather than leadership or management career pathways. As such, it complements other frameworks. One of the strengths of the KSA framework is that it is adaptable. If, on occasion, new KSAs are identified that are not represented in the framework, they can be added in consultation with communities of engineers. This open process ensures that the language used to describe a KSA meets the needs of as many different engineering specialisms as possible. The outcome, we hope, is a common language to describe KSAs across an organization, and broader industry. The process also ensures that education and training interventions (built on top of KSA frameworks) can be developed and implemented quickly to meet emerging job market needs.
 
 # Adapting the Framework
 
-When approaching constructing your own version of the Framework for your organisational purpose there are some help questions that are worth considering.
+The Framework has been published under an [EULA](https://github.com/arm-university/Arm-KSA-Framework/blob/main/LICENSE.md) which enables other organisations to use the Framework and create their own versions, subject to licensing terms. Our hope is that, driven by our [Semiconductor Education Alliance](https://community.arm.com/semiconductor-education-alliance-hub), the Framework will provide a Foundation for developing a common understanding of the competencies required across the semiconductor sector.
+
+When approaching constructing a version of the Arm KSA Framework you may find it helpful to consider the following questions:
 
 1.	For what collection of roles and level of expertise are you constructing the content?
 2.	From what groups do you want representation? E.g. Hiring managers, graduates, from different offices, from different projects or working teams, from specific designated groups
@@ -67,6 +71,7 @@ When approaching constructing your own version of the Framework for your organis
 4.	Will those consulting feedback on the whole Framework or specific subsections?
 5.	How will you manage collecting feedback and version control?
 6.	At what level of granularity will you make amendments? 
+ 
 
 # License
 
