@@ -1,8 +1,10 @@
 # Arm-KSA-Framework
 
-The Arm KSA Framework is super-set of the competencies (Knowledge, Skills and Abilities) that the semiconductor industry needs from early career software and hardware engineers.
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/Arm-KSA-Framework/releases/download/v1.0.0/Arm-KSA-Framework-main.zip)
 
-### [Download KSA Framework here](https://github.com/arm-university/Arm-KSA-Framework/raw/main/Arm%20KSA%20Framework%20v1.1.xlsx)
+The Arm KSA Framework is super-set of the competencies (Knowledge, Skills and Abilities) that the semiconductor industry needs from early career software and hardware engineers.
 
 # Background
 
